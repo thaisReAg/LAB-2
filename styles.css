@@ -94,3 +94,29 @@ header h2 {
   text-align: center;
   text-decoration: none;
 }
+
+/* Section 2 */
+.service-box {
+  font-size: 1.7em;
+  text-align: center;
+}
+
+.service-box img {
+  width: 125px;
+}
+
+/*Section 3*/
+#team .section-text {
+  font-size: 1.9em;
+  text-align: center;
+}
+#team .member-name {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+#team img {
+  width: 250px;
+  height: 180px;
+}
+
+/* Footer */
