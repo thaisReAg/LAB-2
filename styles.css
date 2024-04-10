@@ -133,6 +133,8 @@ header h2 {
   text-decoration: none;
 }
 
-.footer ul {
+/* No lo pongo como .footer ul para quitar también el estilo de la lista del nav-bar */
+
+ul {
   list-style: none;
 }
